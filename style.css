@@ -312,7 +312,7 @@ content: "</";
     border-radius: 10px; /* Optional: Rounded corners */
     transition: left 0.3s ease, transform 0.3s ease; /* Smooth animation */
     width: 50%;
-    height: fit-content;
+    height:180px;
 }
 
 /* Show Only the Active Panel */
